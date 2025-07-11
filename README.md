@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sanika Chougale</h1>
 <h3 align="center">Student of AIML</h3>
 
-<img align="right" alt="coding" width="400" src="" >
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw1NT8b7vbHqcX0tw82BoaP7&ust=1752331706981000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjWwcPTmo4DFQAAAAAdAAAAABAG" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika-2745&label=Profile%20views&color=0e75b6&style=flat" alt="sanika-2745" /> </p>
 
