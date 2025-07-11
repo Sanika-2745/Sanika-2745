@@ -1,4 +1,4 @@
-![logo](https://github.com/Sanika-2745/Sanika-2745/blob/main/Blue%20Futuristic%20Artificial%20Intelligence%20Presentation_20250711_215554_0000.pdf)
+![]()
 <h1 align="center">Hi 👋, I'm Sanika Chougale</h1>
 <h3 align="center">Student of AIML</h3>
 
