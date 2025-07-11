@@ -1,3 +1,4 @@
+![logo](https://github.com/Sanika-2745/Sanika-2745/blob/main/download.png)
 <h1 align="center">Hi 👋, I'm Sanika Chougale</h1>
 <h3 align="center">Student of AIML</h3>
 
